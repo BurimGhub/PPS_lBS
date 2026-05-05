@@ -1,0 +1,644 @@
+--- All Employees ---
+Employee{id=1, name='James', salary=95000.00}
+Employee{id=2, name='Maria', salary=92000.00}
+Employee{id=3, name='Robert', salary=88000.00}
+Employee{id=4, name='Emma', salary=91000.00}
+Employee{id=5, name='Liam', salary=85000.00}
+Employee{id=6, name='Olivia', salary=110000.00}
+Employee{id=7, name='Noah', salary=78000.00}
+Employee{id=8, name='Ava', salary=82000.00}
+Employee{id=9, name='William', salary=75000.00}
+Employee{id=10, name='Sophia', salary=84000.00}
+Employee{id=11, name='Ethan', salary=89000.00}
+Employee{id=12, name='Isabella', salary=125000.00}
+Employee{id=13, name='Charlotte', salary=53936.00}
+Employee{id=14, name='Ella', salary=50213.00}
+Employee{id=15, name='Scarlett', salary=44472.00}
+Employee{id=16, name='Ava', salary=56608.00}
+Employee{id=17, name='Scarlett', salary=64518.00}
+Employee{id=18, name='Charlotte', salary=44713.00}
+Employee{id=19, name='Evelyn', salary=65731.00}
+Employee{id=20, name='Mia', salary=59012.00}
+Employee{id=21, name='Ava', salary=41958.00}
+Employee{id=22, name='Ella', salary=97000.00}
+Employee{id=23, name='Logan', salary=69115.00}
+Employee{id=25, name='Evelyn', salary=60267.00}
+Employee{id=26, name='Scarlett', salary=61535.00}
+Employee{id=27, name='Zoe', salary=54836.00}
+Employee{id=28, name='Mia', salary=69570.00}
+Employee{id=29, name='Grace', salary=65963.00}
+Employee{id=30, name='Olivia', salary=50227.00}
+Employee{id=31, name='Scarlett', salary=77000.00}
+Employee{id=32, name='Mia', salary=47912.00}
+Employee{id=33, name='Emma', salary=65805.00}
+Employee{id=35, name='Ethan', salary=38284.00}
+Employee{id=36, name='Logan', salary=48475.00}
+Employee{id=37, name='Abigail', salary=50926.00}
+Employee{id=38, name='Aiden', salary=66210.00}
+Employee{id=40, name='Ava', salary=50989.00}
+Employee{id=41, name='Charlotte', salary=53743.00}
+Employee{id=42, name='Mateo', salary=59032.00}
+Employee{id=43, name='Charlotte', salary=40025.00}
+Employee{id=44, name='Jackson', salary=57131.00}
+Employee{id=45, name='Evelyn', salary=44119.00}
+Employee{id=46, name='Joseph', salary=40289.00}
+Employee{id=47, name='Amelia', salary=60627.00}
+Employee{id=48, name='Elijah', salary=66846.00}
+Employee{id=49, name='Grace', salary=62640.00}
+Employee{id=50, name='Olivia', salary=41219.00}
+Employee{id=51, name='Aiden', salary=69333.00}
+Employee{id=53, name='Mason', salary=64564.00}
+Employee{id=54, name='Ava', salary=53235.00}
+Employee{id=55, name='Ava', salary=44904.00}
+Employee{id=56, name='Ava', salary=65116.00}
+Employee{id=57, name='Elijah', salary=42566.00}
+Employee{id=58, name='Sophia', salary=50918.00}
+Employee{id=59, name='Joseph', salary=52217.00}
+Employee{id=60, name='Oliver', salary=66262.00}
+Employee{id=61, name='Omar', salary=83000.00}
+Employee{id=62, name='Mia', salary=39659.00}
+Employee{id=63, name='Zoe', salary=44625.00}
+Employee{id=64, name='Jackson', salary=54317.00}
+Employee{id=66, name='Amelia', salary=46481.00}
+Employee{id=67, name='Ella', salary=58606.00}
+Employee{id=68, name='Evelyn', salary=62157.00}
+Employee{id=69, name='Grace', salary=52947.00}
+Employee{id=71, name='Isabella', salary=41217.00}
+Employee{id=72, name='Scarlett', salary=67519.00}
+Employee{id=73, name='Joseph', salary=45421.00}
+Employee{id=74, name='James', salary=65525.00}
+Employee{id=76, name='Mason', salary=51451.00}
+Employee{id=77, name='Amelia', salary=56167.00}
+Employee{id=78, name='Sophia', salary=47902.00}
+Employee{id=79, name='Mateo', salary=50901.00}
+Employee{id=80, name='Aiden', salary=69245.00}
+Employee{id=81, name='Amelia', salary=63194.00}
+Employee{id=83, name='Lucas', salary=67971.00}
+Employee{id=85, name='Scarlett', salary=54490.00}
+Employee{id=87, name='Aiden', salary=67585.00}
+Employee{id=88, name='Ava', salary=51962.00}
+Employee{id=89, name='Isabella', salary=63586.00}
+Employee{id=90, name='Sophia', salary=66165.00}
+Employee{id=91, name='Ella', salary=44175.00}
+Employee{id=92, name='Noah', salary=62684.00}
+Employee{id=94, name='Isabella', salary=39024.00}
+Employee{id=95, name='James', salary=60522.00}
+Employee{id=96, name='David', salary=63172.00}
+Employee{id=98, name='Mia', salary=65365.00}
+Employee{id=99, name='Noah', salary=58610.00}
+Employee{id=100, name='Olivia', salary=38721.00}
+Employee{id=101, name='Harper', salary=64130.00}
+Employee{id=102, name='Sophia', salary=65148.00}
+Employee{id=104, name='Emma', salary=55959.00}
+Employee{id=105, name='Grace', salary=61983.00}
+Employee{id=106, name='Aiden', salary=67554.00}
+Employee{id=107, name='Mateo', salary=55566.00}
+Employee{id=108, name='Oliver', salary=42345.00}
+Employee{id=109, name='Ava', salary=48718.00}
+Employee{id=110, name='Elijah', salary=50289.00}
+Employee{id=111, name='Abigail', salary=38231.00}
+Employee{id=112, name='Ethan', salary=45047.00}
+Employee{id=113, name='Zoe', salary=69673.00}
+Employee{id=114, name='Aiden', salary=53991.00}
+Employee{id=115, name='Joseph', salary=65461.00}
+Employee{id=116, name='Lucas', salary=55133.00}
+Employee{id=117, name='Noah', salary=63480.00}
+Employee{id=118, name='Zoe', salary=52918.00}
+Employee{id=119, name='Lucas', salary=59286.00}
+Employee{id=120, name='Logan', salary=53740.00}
+Employee{id=121, name='Emma', salary=50688.00}
+Employee{id=122, name='Logan', salary=48130.00}
+Employee{id=123, name='Lucas', salary=48026.00}
+Employee{id=124, name='Sebastian', salary=44654.00}
+Employee{id=125, name='Joseph', salary=51377.00}
+Employee{id=126, name='Evelyn', salary=40366.00}
+Employee{id=127, name='Mia', salary=58989.00}
+Employee{id=128, name='Emma', salary=58900.00}
+Employee{id=129, name='Ella', salary=59615.00}
+Employee{id=130, name='Scarlett', salary=67188.00}
+Employee{id=131, name='Ethan', salary=51919.00}
+Employee{id=132, name='Liam', salary=46110.00}
+Employee{id=133, name='Olivia', salary=60497.00}
+Employee{id=134, name='Liam', salary=40593.00}
+Employee{id=135, name='Mason', salary=63171.00}
+Employee{id=136, name='Jackson', salary=39833.00}
+Employee{id=137, name='Isabella', salary=41087.00}
+Employee{id=138, name='Logan', salary=51512.00}
+Employee{id=139, name='Lucas', salary=60550.00}
+Employee{id=140, name='Mateo', salary=41330.00}
+Employee{id=141, name='Abigail', salary=66879.00}
+Employee{id=142, name='David', salary=61964.00}
+Employee{id=143, name='Ella', salary=51412.00}
+Employee{id=144, name='David', salary=50540.00}
+Employee{id=145, name='Charlotte', salary=46026.00}
+Employee{id=146, name='Sophia', salary=38327.00}
+Employee{id=147, name='Harper', salary=38267.00}
+Employee{id=148, name='Mateo', salary=46230.00}
+Employee{id=149, name='Mateo', salary=52314.00}
+Employee{id=150, name='Lucas', salary=59287.00}
+Employee{id=151, name='Evelyn', salary=68249.00}
+Employee{id=152, name='David', salary=57431.00}
+Employee{id=153, name='Isabella', salary=65689.00}
+Employee{id=154, name='Ava', salary=64458.00}
+Employee{id=155, name='Liam', salary=58363.00}
+Employee{id=156, name='Zoe', salary=62443.00}
+Employee{id=157, name='Sherif', salary=203000.00}
+Employee{id=158, name='Isabella', salary=60905.00}
+Employee{id=159, name='Olivia', salary=69048.00}
+Employee{id=160, name='Sebastian', salary=60182.00}
+Employee{id=161, name='Jackson', salary=69673.00}
+Employee{id=162, name='Abigail', salary=53208.00}
+Employee{id=163, name='Amelia', salary=41906.00}
+Employee{id=164, name='Joseph', salary=54115.00}
+Employee{id=165, name='Logan', salary=47298.00}
+Employee{id=166, name='Sophia', salary=45124.00}
+Employee{id=167, name='Elijah', salary=61366.00}
+Employee{id=168, name='Logan', salary=68598.00}
+Employee{id=169, name='Ethan', salary=43583.00}
+Employee{id=170, name='Jackson', salary=47571.00}
+Employee{id=171, name='Sophia', salary=46770.00}
+Employee{id=172, name='Charlotte', salary=44077.00}
+Employee{id=173, name='Mateo', salary=60248.00}
+Employee{id=174, name='Lucas', salary=49787.00}
+Employee{id=175, name='Ella', salary=52052.00}
+Employee{id=176, name='James', salary=66335.00}
+Employee{id=177, name='Oliver', salary=56624.00}
+Employee{id=178, name='Mateo', salary=49117.00}
+Employee{id=179, name='Mia', salary=45715.00}
+Employee{id=180, name='Ava', salary=46847.00}
+Employee{id=181, name='Oliver', salary=45880.00}
+Employee{id=182, name='Emma', salary=42328.00}
+Employee{id=183, name='Aiden', salary=57326.00}
+Employee{id=184, name='Grace', salary=64522.00}
+Employee{id=185, name='Lucas', salary=57769.00}
+Employee{id=186, name='Grace', salary=63678.00}
+Employee{id=187, name='Jackson', salary=47516.00}
+Employee{id=188, name='Abigail', salary=45325.00}
+Employee{id=189, name='Jackson', salary=42803.00}
+Employee{id=190, name='Noah', salary=55220.00}
+Employee{id=191, name='Charlotte', salary=38381.00}
+Employee{id=192, name='Mia', salary=47193.00}
+Employee{id=193, name='Isabella', salary=58331.00}
+Employee{id=194, name='Joseph', salary=49962.00}
+Employee{id=195, name='Emma', salary=57224.00}
+Employee{id=196, name='Liam', salary=41177.00}
+Employee{id=197, name='Mason', salary=38660.00}
+Employee{id=198, name='Lucas', salary=55148.00}
+Employee{id=199, name='Grace', salary=69342.00}
+Employee{id=200, name='Charlotte', salary=67359.00}
+Employee{id=201, name='David', salary=53314.00}
+
+--- High Earners (>$50,000) ---
+Employee{id=1, name='James', salary=95000.00}
+Employee{id=2, name='Maria', salary=92000.00}
+Employee{id=3, name='Robert', salary=88000.00}
+Employee{id=4, name='Emma', salary=91000.00}
+Employee{id=5, name='Liam', salary=85000.00}
+Employee{id=6, name='Olivia', salary=110000.00}
+Employee{id=7, name='Noah', salary=78000.00}
+Employee{id=8, name='Ava', salary=82000.00}
+Employee{id=9, name='William', salary=75000.00}
+Employee{id=10, name='Sophia', salary=84000.00}
+Employee{id=11, name='Ethan', salary=89000.00}
+Employee{id=12, name='Isabella', salary=125000.00}
+Employee{id=13, name='Charlotte', salary=53936.00}
+Employee{id=14, name='Ella', salary=50213.00}
+Employee{id=16, name='Ava', salary=56608.00}
+Employee{id=17, name='Scarlett', salary=64518.00}
+Employee{id=19, name='Evelyn', salary=65731.00}
+Employee{id=20, name='Mia', salary=59012.00}
+Employee{id=22, name='Ella', salary=97000.00}
+Employee{id=23, name='Logan', salary=69115.00}
+Employee{id=25, name='Evelyn', salary=60267.00}
+Employee{id=26, name='Scarlett', salary=61535.00}
+Employee{id=27, name='Zoe', salary=54836.00}
+Employee{id=28, name='Mia', salary=69570.00}
+Employee{id=29, name='Grace', salary=65963.00}
+Employee{id=30, name='Olivia', salary=50227.00}
+Employee{id=31, name='Scarlett', salary=77000.00}
+Employee{id=33, name='Emma', salary=65805.00}
+Employee{id=37, name='Abigail', salary=50926.00}
+Employee{id=38, name='Aiden', salary=66210.00}
+Employee{id=40, name='Ava', salary=50989.00}
+Employee{id=41, name='Charlotte', salary=53743.00}
+Employee{id=42, name='Mateo', salary=59032.00}
+Employee{id=44, name='Jackson', salary=57131.00}
+Employee{id=47, name='Amelia', salary=60627.00}
+Employee{id=48, name='Elijah', salary=66846.00}
+Employee{id=49, name='Grace', salary=62640.00}
+Employee{id=51, name='Aiden', salary=69333.00}
+Employee{id=53, name='Mason', salary=64564.00}
+Employee{id=54, name='Ava', salary=53235.00}
+Employee{id=56, name='Ava', salary=65116.00}
+Employee{id=58, name='Sophia', salary=50918.00}
+Employee{id=59, name='Joseph', salary=52217.00}
+Employee{id=60, name='Oliver', salary=66262.00}
+Employee{id=61, name='Omar', salary=83000.00}
+Employee{id=64, name='Jackson', salary=54317.00}
+Employee{id=67, name='Ella', salary=58606.00}
+Employee{id=68, name='Evelyn', salary=62157.00}
+Employee{id=69, name='Grace', salary=52947.00}
+Employee{id=72, name='Scarlett', salary=67519.00}
+Employee{id=74, name='James', salary=65525.00}
+Employee{id=76, name='Mason', salary=51451.00}
+Employee{id=77, name='Amelia', salary=56167.00}
+Employee{id=79, name='Mateo', salary=50901.00}
+Employee{id=80, name='Aiden', salary=69245.00}
+Employee{id=81, name='Amelia', salary=63194.00}
+Employee{id=83, name='Lucas', salary=67971.00}
+Employee{id=85, name='Scarlett', salary=54490.00}
+Employee{id=87, name='Aiden', salary=67585.00}
+Employee{id=88, name='Ava', salary=51962.00}
+Employee{id=89, name='Isabella', salary=63586.00}
+Employee{id=90, name='Sophia', salary=66165.00}
+Employee{id=92, name='Noah', salary=62684.00}
+Employee{id=95, name='James', salary=60522.00}
+Employee{id=96, name='David', salary=63172.00}
+Employee{id=98, name='Mia', salary=65365.00}
+Employee{id=99, name='Noah', salary=58610.00}
+Employee{id=101, name='Harper', salary=64130.00}
+Employee{id=102, name='Sophia', salary=65148.00}
+Employee{id=104, name='Emma', salary=55959.00}
+Employee{id=105, name='Grace', salary=61983.00}
+Employee{id=106, name='Aiden', salary=67554.00}
+Employee{id=107, name='Mateo', salary=55566.00}
+Employee{id=110, name='Elijah', salary=50289.00}
+Employee{id=113, name='Zoe', salary=69673.00}
+Employee{id=114, name='Aiden', salary=53991.00}
+Employee{id=115, name='Joseph', salary=65461.00}
+Employee{id=116, name='Lucas', salary=55133.00}
+Employee{id=117, name='Noah', salary=63480.00}
+Employee{id=118, name='Zoe', salary=52918.00}
+Employee{id=119, name='Lucas', salary=59286.00}
+Employee{id=120, name='Logan', salary=53740.00}
+Employee{id=121, name='Emma', salary=50688.00}
+Employee{id=125, name='Joseph', salary=51377.00}
+Employee{id=127, name='Mia', salary=58989.00}
+Employee{id=128, name='Emma', salary=58900.00}
+Employee{id=129, name='Ella', salary=59615.00}
+Employee{id=130, name='Scarlett', salary=67188.00}
+Employee{id=131, name='Ethan', salary=51919.00}
+Employee{id=133, name='Olivia', salary=60497.00}
+Employee{id=135, name='Mason', salary=63171.00}
+Employee{id=138, name='Logan', salary=51512.00}
+Employee{id=139, name='Lucas', salary=60550.00}
+Employee{id=141, name='Abigail', salary=66879.00}
+Employee{id=142, name='David', salary=61964.00}
+Employee{id=143, name='Ella', salary=51412.00}
+Employee{id=144, name='David', salary=50540.00}
+Employee{id=149, name='Mateo', salary=52314.00}
+Employee{id=150, name='Lucas', salary=59287.00}
+Employee{id=151, name='Evelyn', salary=68249.00}
+Employee{id=152, name='David', salary=57431.00}
+Employee{id=153, name='Isabella', salary=65689.00}
+Employee{id=154, name='Ava', salary=64458.00}
+Employee{id=155, name='Liam', salary=58363.00}
+Employee{id=156, name='Zoe', salary=62443.00}
+Employee{id=157, name='Sherif', salary=203000.00}
+Employee{id=158, name='Isabella', salary=60905.00}
+Employee{id=159, name='Olivia', salary=69048.00}
+Employee{id=160, name='Sebastian', salary=60182.00}
+Employee{id=161, name='Jackson', salary=69673.00}
+Employee{id=162, name='Abigail', salary=53208.00}
+Employee{id=164, name='Joseph', salary=54115.00}
+Employee{id=167, name='Elijah', salary=61366.00}
+Employee{id=168, name='Logan', salary=68598.00}
+Employee{id=173, name='Mateo', salary=60248.00}
+Employee{id=175, name='Ella', salary=52052.00}
+Employee{id=176, name='James', salary=66335.00}
+Employee{id=177, name='Oliver', salary=56624.00}
+Employee{id=183, name='Aiden', salary=57326.00}
+Employee{id=184, name='Grace', salary=64522.00}
+Employee{id=185, name='Lucas', salary=57769.00}
+Employee{id=186, name='Grace', salary=63678.00}
+Employee{id=190, name='Noah', salary=55220.00}
+Employee{id=193, name='Isabella', salary=58331.00}
+Employee{id=195, name='Emma', salary=57224.00}
+Employee{id=198, name='Lucas', salary=55148.00}
+Employee{id=199, name='Grace', salary=69342.00}
+Employee{id=200, name='Charlotte', salary=67359.00}
+Employee{id=201, name='David', salary=53314.00}
+
+--- Taxed High Earners (Formatted) ---
+James new salary: $80750.00
+Maria new salary: $78200.00
+Robert new salary: $74800.00
+Emma new salary: $77350.00
+Liam new salary: $72250.00
+Olivia new salary: $93500.00
+Noah new salary: $66300.00
+Ava new salary: $69700.00
+William new salary: $63750.00
+Sophia new salary: $71400.00
+Ethan new salary: $75650.00
+Isabella new salary: $106250.00
+Charlotte new salary: $45845.60
+Ella new salary: $42681.05
+Ava new salary: $48116.80
+Scarlett new salary: $54840.30
+Evelyn new salary: $55871.35
+Mia new salary: $50160.20
+Ella new salary: $82450.00
+Logan new salary: $58747.75
+Evelyn new salary: $51226.95
+Scarlett new salary: $52304.75
+Zoe new salary: $46610.60
+Mia new salary: $59134.50
+Grace new salary: $56068.55
+Olivia new salary: $42692.95
+Scarlett new salary: $65450.00
+Emma new salary: $55934.25
+Abigail new salary: $43287.10
+Aiden new salary: $56278.50
+Ava new salary: $43340.65
+Charlotte new salary: $45681.55
+Mateo new salary: $50177.20
+Jackson new salary: $48561.35
+Amelia new salary: $51532.95
+Elijah new salary: $56819.10
+Grace new salary: $53244.00
+Aiden new salary: $58933.05
+Mason new salary: $54879.40
+Ava new salary: $45249.75
+Ava new salary: $55348.60
+Sophia new salary: $43280.30
+Joseph new salary: $44384.45
+Oliver new salary: $56322.70
+Omar new salary: $70550.00
+Jackson new salary: $46169.45
+Ella new salary: $49815.10
+Evelyn new salary: $52833.45
+Grace new salary: $45004.95
+Scarlett new salary: $57391.15
+James new salary: $55696.25
+Mason new salary: $43733.35
+Amelia new salary: $47741.95
+Mateo new salary: $43265.85
+Aiden new salary: $58858.25
+Amelia new salary: $53714.90
+Lucas new salary: $57775.35
+Scarlett new salary: $46316.50
+Aiden new salary: $57447.25
+Ava new salary: $44167.70
+Isabella new salary: $54048.10
+Sophia new salary: $56240.25
+Noah new salary: $53281.40
+James new salary: $51443.70
+David new salary: $53696.20
+Mia new salary: $55560.25
+Noah new salary: $49818.50
+Harper new salary: $54510.50
+Sophia new salary: $55375.80
+Emma new salary: $47565.15
+Grace new salary: $52685.55
+Aiden new salary: $57420.90
+Mateo new salary: $47231.10
+Elijah new salary: $42745.65
+Zoe new salary: $59222.05
+Aiden new salary: $45892.35
+Joseph new salary: $55641.85
+Lucas new salary: $46863.05
+Noah new salary: $53958.00
+Zoe new salary: $44980.30
+Lucas new salary: $50393.10
+Logan new salary: $45679.00
+Emma new salary: $43084.80
+Joseph new salary: $43670.45
+Mia new salary: $50140.65
+Emma new salary: $50065.00
+Ella new salary: $50672.75
+Scarlett new salary: $57109.80
+Ethan new salary: $44131.15
+Olivia new salary: $51422.45
+Mason new salary: $53695.35
+Logan new salary: $43785.20
+Lucas new salary: $51467.50
+Abigail new salary: $56847.15
+David new salary: $52669.40
+Ella new salary: $43700.20
+David new salary: $42959.00
+Mateo new salary: $44466.90
+Lucas new salary: $50393.95
+Evelyn new salary: $58011.65
+David new salary: $48816.35
+Isabella new salary: $55835.65
+Ava new salary: $54789.30
+Liam new salary: $49608.55
+Zoe new salary: $53076.55
+Sherif new salary: $172550.00
+Isabella new salary: $51769.25
+Olivia new salary: $58690.80
+Sebastian new salary: $51154.70
+Jackson new salary: $59222.05
+Abigail new salary: $45226.80
+Joseph new salary: $45997.75
+Elijah new salary: $52161.10
+Logan new salary: $58308.30
+Mateo new salary: $51210.80
+Ella new salary: $44244.20
+James new salary: $56384.75
+Oliver new salary: $48130.40
+Aiden new salary: $48727.10
+Grace new salary: $54843.70
+Lucas new salary: $49103.65
+Grace new salary: $54126.30
+Noah new salary: $46937.00
+Isabella new salary: $49581.35
+Emma new salary: $48640.40
+Lucas new salary: $46875.80
+Grace new salary: $58940.70
+Charlotte new salary: $57255.15
+David new salary: $45316.90
+
+--- Extra: Partitioned & Taxed (All Employees) ---
+High Earners (15% Tax applied):
+James: $80750.00
+Maria: $78200.00
+Robert: $74800.00
+Emma: $77350.00
+Liam: $72250.00
+Olivia: $93500.00
+Noah: $66300.00
+Ava: $69700.00
+William: $63750.00
+Sophia: $71400.00
+Ethan: $75650.00
+Isabella: $106250.00
+Charlotte: $45845.60
+Ella: $42681.05
+Ava: $48116.80
+Scarlett: $54840.30
+Evelyn: $55871.35
+Mia: $50160.20
+Ella: $82450.00
+Logan: $58747.75
+Evelyn: $51226.95
+Scarlett: $52304.75
+Zoe: $46610.60
+Mia: $59134.50
+Grace: $56068.55
+Olivia: $42692.95
+Scarlett: $65450.00
+Emma: $55934.25
+Abigail: $43287.10
+Aiden: $56278.50
+Ava: $43340.65
+Charlotte: $45681.55
+Mateo: $50177.20
+Jackson: $48561.35
+Amelia: $51532.95
+Elijah: $56819.10
+Grace: $53244.00
+Aiden: $58933.05
+Mason: $54879.40
+Ava: $45249.75
+Ava: $55348.60
+Sophia: $43280.30
+Joseph: $44384.45
+Oliver: $56322.70
+Omar: $70550.00
+Jackson: $46169.45
+Ella: $49815.10
+Evelyn: $52833.45
+Grace: $45004.95
+Scarlett: $57391.15
+James: $55696.25
+Mason: $43733.35
+Amelia: $47741.95
+Mateo: $43265.85
+Aiden: $58858.25
+Amelia: $53714.90
+Lucas: $57775.35
+Scarlett: $46316.50
+Aiden: $57447.25
+Ava: $44167.70
+Isabella: $54048.10
+Sophia: $56240.25
+Noah: $53281.40
+James: $51443.70
+David: $53696.20
+Mia: $55560.25
+Noah: $49818.50
+Harper: $54510.50
+Sophia: $55375.80
+Emma: $47565.15
+Grace: $52685.55
+Aiden: $57420.90
+Mateo: $47231.10
+Elijah: $42745.65
+Zoe: $59222.05
+Aiden: $45892.35
+Joseph: $55641.85
+Lucas: $46863.05
+Noah: $53958.00
+Zoe: $44980.30
+Lucas: $50393.10
+Logan: $45679.00
+Emma: $43084.80
+Joseph: $43670.45
+Mia: $50140.65
+Emma: $50065.00
+Ella: $50672.75
+Scarlett: $57109.80
+Ethan: $44131.15
+Olivia: $51422.45
+Mason: $53695.35
+Logan: $43785.20
+Lucas: $51467.50
+Abigail: $56847.15
+David: $52669.40
+Ella: $43700.20
+David: $42959.00
+Mateo: $44466.90
+Lucas: $50393.95
+Evelyn: $58011.65
+David: $48816.35
+Isabella: $55835.65
+Ava: $54789.30
+Liam: $49608.55
+Zoe: $53076.55
+Sherif: $172550.00
+Isabella: $51769.25
+Olivia: $58690.80
+Sebastian: $51154.70
+Jackson: $59222.05
+Abigail: $45226.80
+Joseph: $45997.75
+Elijah: $52161.10
+Logan: $58308.30
+Mateo: $51210.80
+Ella: $44244.20
+James: $56384.75
+Oliver: $48130.40
+Aiden: $48727.10
+Grace: $54843.70
+Lucas: $49103.65
+Grace: $54126.30
+Noah: $46937.00
+Isabella: $49581.35
+Emma: $48640.40
+Lucas: $46875.80
+Grace: $58940.70
+Charlotte: $57255.15
+David: $45316.90
+
+Standard Earners (10% Tax applied):
+Scarlett: $40024.80
+Charlotte: $40241.70
+Ava: $37762.20
+Mia: $43120.80
+Ethan: $34455.60
+Logan: $43627.50
+Charlotte: $36022.50
+Evelyn: $39707.10
+Joseph: $36260.10
+Olivia: $37097.10
+Ava: $40413.60
+Elijah: $38309.40
+Mia: $35693.10
+Zoe: $40162.50
+Amelia: $41832.90
+Isabella: $37095.30
+Joseph: $40878.90
+Sophia: $43111.80
+Ella: $39757.50
+Isabella: $35121.60
+Olivia: $34848.90
+Oliver: $38110.50
+Ava: $43846.20
+Abigail: $34407.90
+Ethan: $40542.30
+Logan: $43317.00
+Lucas: $43223.40
+Sebastian: $40188.60
+Evelyn: $36329.40
+Liam: $41499.00
+Liam: $36533.70
+Jackson: $35849.70
+Isabella: $36978.30
+Mateo: $37197.00
+Charlotte: $41423.40
+Sophia: $34494.30
+Harper: $34440.30
+Mateo: $41607.00
+Amelia: $37715.40
+Logan: $42568.20
+Sophia: $40611.60
+Ethan: $39224.70
+Jackson: $42813.90
+Sophia: $42093.00
+Charlotte: $39669.30
+Lucas: $44808.30
+Mateo: $44205.30
+Mia: $41143.50
+Ava: $42162.30
+Oliver: $41292.00
+Emma: $38095.20
+Jackson: $42764.40
+Abigail: $40792.50
+Jackson: $38522.70
+Charlotte: $34542.90
+Mia: $42473.70
+Joseph: $44965.80
+Liam: $37059.30
+Mason: $34794.00
